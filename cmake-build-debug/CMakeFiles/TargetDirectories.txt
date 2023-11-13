@@ -1,0 +1,3 @@
+/home/said/said/learn/c/taks2/cmake-build-debug/CMakeFiles/taks2.dir
+/home/said/said/learn/c/taks2/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/said/said/learn/c/taks2/cmake-build-debug/CMakeFiles/rebuild_cache.dir
